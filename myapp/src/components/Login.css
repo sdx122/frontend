@@ -1,0 +1,41 @@
+.box{
+    border: 2px solid black;
+    padding: 10px;
+    
+}
+.form1{
+    border: 2px solid black;
+    padding: 10px 10px;
+    margin: 12px;
+}
+
+.inp1{
+    margin: 12px;
+    border-radius: 6px;
+    border: none;
+    
+
+}
+.inp2{
+    margin: 12px;
+    border-radius: 6px;
+    border: none;
+    
+
+}
+
+.login{
+    padding:4px 50px;
+    border: none;
+    border-radius: 6px;
+    background-color: orange;
+    color: white;
+    margin: 20px;
+}
+.signup{
+    padding:4px 50px;
+    border: none;
+    border-radius: 6px;
+    background-color: orange;
+    color: white;
+}

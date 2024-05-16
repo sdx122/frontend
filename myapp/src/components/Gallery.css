@@ -1,0 +1,38 @@
+.lll{
+    display: flex;
+    
+    flex-wrap: wrap ;
+    flex-direction:row;
+    align-content: space-between;
+    justify-content: space-around;
+   
+}
+.vv{
+    list-style: none;
+    margin: 138px 20px;
+    text-decoration: none;
+    font-style: italic;
+    font-size: 53px;
+    color: black;
+}
+.foot{
+    
+color: white;
+}
+
+    
+.footer{
+    background-color: grey;
+    border: 2px solid black;
+    padding: 60px 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    flex-direction: row;
+}
+.glry
+{
+   font-size: 36px;
+    margin: 6px 544px;
+}
+    
